@@ -488,7 +488,7 @@ copies or substantial portions of the Software.
 
 | Contact | Link |
 |---------|------|
-| 📧 Email | [azatyersainuly@gmail.com](mailto:azatyersainuly@gmail.com) |
+| 📧 Email | [ihorkarpiuk540@gmail.com](mailto:ihorkarpiuk540@gmail.com) |
 | 🐙 GitHub | [@ihorkarpiuk540-spec](https://github.com/ihorkarpiuk540-spec) |
 | 💼 Portfolio | *Coming Soon* |
 
@@ -514,7 +514,7 @@ Having issues or questions? Reach out:
 |------|---------------|
 | 🐛 Bug Report | [Open an Issue](https://github.com/ihorkarpiuk540-spec/shopsmart-ai/issues) |
 | 💡 Feature Request | [Open an Issue](https://github.com/ihorkarpiuk540-spec/shopsmart-ai/issues) |
-| 📧 General Inquiry | [azatyersainuly@gmail.com](mailto:azatyersainuly@gmail.com) |
+| 📧 General Inquiry | [ihorkarpiuk540@gmail.com](mailto:ihorkarpiuk@gmail.com) |
 | 💬 Quick Question | Use the AI Chat Assistant in the app! |
 
 ---
