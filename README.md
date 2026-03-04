@@ -1,1 +1,1 @@
-"# ??? ShopSmart AI" 
+# ShopSmart SI Project
